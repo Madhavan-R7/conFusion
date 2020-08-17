@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
     "dot-prop": "^5.2.0",
+    "font-awesome": "^4.7.0",
     "funding": "^1.0.9",
     "jquery": "^3.5.1",
     "npm": "^6.14.7",
