@@ -41,3 +41,10 @@
 .bt{
   padding: 10px 50px 10px 50px;
 }
+
+.tab-content{
+  padding: 10px 10px 10px 10px;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
